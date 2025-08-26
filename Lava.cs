@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-//в
+
+//класс
 public class Lava : MonoBehaviour
 {
     public Slider healthSlider;
@@ -25,4 +26,5 @@ public class Lava : MonoBehaviour
         }
     }
 }
+
 
