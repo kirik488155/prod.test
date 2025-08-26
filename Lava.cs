@@ -16,7 +16,7 @@ public class Lava : MonoBehaviour
             healthSlider.value = healthSlider.value - 1;
         }
     }
-
+//ргвыгыг
     // Update is called once per frame
     void Update()
     {
@@ -26,5 +26,6 @@ public class Lava : MonoBehaviour
         }
     }
 }
+
 
 
